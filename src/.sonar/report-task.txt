@@ -1,0 +1,6 @@
+projectKey=SonarJavaOperaciones
+serverUrl=http://localhost:9000
+serverVersion=6.5.0.27846
+dashboardUrl=http://localhost:9000/dashboard/index/SonarJavaOperaciones
+ceTaskId=AV5ijMc3uefB7wodhUJM
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV5ijMc3uefB7wodhUJM

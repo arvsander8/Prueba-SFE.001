@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-08T12:58:29</date>
+  <millis>1504893509434</millis>
+  <sequence>0</sequence>
+  <logger>com.operaciones</logger>
+  <level>INFO</level>
+  <class>com.operaciones.Operaciones</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>15</message>
+</record>
+<record>
+  <date>2017-09-08T12:58:29</date>
+  <millis>1504893509464</millis>
+  <sequence>1</sequence>
+  <logger>com.operaciones</logger>
+  <level>WARNING</level>
+  <class>com.operaciones.Operaciones</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>5</message>
+</record>
+<record>
+  <date>2017-09-08T12:58:29</date>
+  <millis>1504893509465</millis>
+  <sequence>2</sequence>
+  <logger>com.operaciones</logger>
+  <level>SEVERE</level>
+  <class>com.operaciones.Operaciones</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>50</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-08T12:58:45</date>
+  <millis>1504893525663</millis>
+  <sequence>0</sequence>
+  <logger>com.operaciones</logger>
+  <level>INFO</level>
+  <class>com.operaciones.Operaciones</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>15</message>
+</record>
+<record>
+  <date>2017-09-08T12:58:45</date>
+  <millis>1504893525695</millis>
+  <sequence>1</sequence>
+  <logger>com.operaciones</logger>
+  <level>WARNING</level>
+  <class>com.operaciones.Operaciones</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>5</message>
+</record>
+<record>
+  <date>2017-09-08T12:58:45</date>
+  <millis>1504893525695</millis>
+  <sequence>2</sequence>
+  <logger>com.operaciones</logger>
+  <level>SEVERE</level>
+  <class>com.operaciones.Operaciones</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>50</message>
+</record>
+</log>
